@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DAM_UC3_PrimerNombreyApellido</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="NoCerrarSesion">No cerrar Sesión</string>
+    <string name="OlvidarContraseña">¿Has olvidado tu contraseña?</string>
+    <string name="txtNombre" />
+    <string name="txtApellidos">Apellidos:</string>
+    <string name="txt_ApelliDos" />
+    <string name="txt_Apellidos">Apellidos:</string>
+    <string name="txtCorreo">Dirección de correo electrónico:</string>
+    <string name="txtContraseña">Contraseña nueva</string>
+    <string name="txtSexo">Sexo:</string>
+    <string name="FechaNacimiento">Fecha de nacimiento:</string>
+    <string name="Explicaciom" />
+    <string name="Explicación">¿Por qué tengo que dar esta información?</string>
+    <string name="txt_Registrate">Regístrate</string>
+</resources>
